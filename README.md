@@ -13,5 +13,5 @@ Just call `neatest` and the template name
 Example: Standard repo for generic open source software
 
 ```sh
-neatest git-repo-oss
+neatest oss
 ```
